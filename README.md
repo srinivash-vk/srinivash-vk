@@ -1,5 +1,5 @@
 - 👋 Hi, I’m srinivash-vk
-- ☀️ Erode
+- ☀️ Living in Turmeric City
 - 👀 I’m interested in programming and UI /UX desigining
 - 🌱 I’m currently working
 - 💞️ I’m looking to collaborate on ...
