@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @srinivash-vk
+- 👋 Hi, I’m srinivash-vk
+- ☀️ Erode
 - 👀 I’m interested in programming and UI /UX desigining
 - 🌱 I’m currently working
 - 💞️ I’m looking to collaborate on ...
