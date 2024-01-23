@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://srini-portfolio.vercel.app/](https://srini-portfolio.vercel.app/)
 
-- 💬 Ask me about **React,React Native,Flutter,HTML,CSS,Tailwind CSS,Javascript, and Redux**
+- 💬 Ask me about **React, React Native, Flutter, HTML, CSS, Tailwind CSS, Javascript, and Redux**
 
 - 📫 How to reach me **srinivashvenkateswaran**
 
